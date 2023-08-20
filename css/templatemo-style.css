@@ -1,21 +1,13 @@
-/*
-
-Lavish HTML CSS Template
-
-https://templatemo.com/tm-458-lavish
-		
-*/
 
 body
 {
 	background: #000000;
 	color: #999;
 	font-family: 'Raleway', sans-serif;
-	font-size: 16px;
+	font-size: 20px;
 	font-weight: 400;
 }
 
-/* start all section */
 #home,
 #home .fp-slide,
 #home .fp-tableCell,
@@ -43,25 +35,16 @@ footer .fp-tableCell
     height: auto !important;
 }
 
-/* end all section */
-
-/* start all heading */
 h1,h2,h3,h4,h5
     {
         color: #ffffff;
         font-weight: bold;
     }
-/* end all heading */
-
-/* start all section */
 #work, #about, #portfolio, #contact
     {
         padding-top: 100px;
         padding-bottom: 120px;
     }
-/* end all section */
-
-/* start simpletextrotator */
 .rotating {
   display: inline-block;
   -webkit-transform-style: preserve-3d;
@@ -209,9 +192,6 @@ h1,h2,h3,h4,h5
         background: #D43F52;
         border-color: transparent;
     }
-/* end home */
-
-/* start work */
 #work
     {
         background: #1a1a1a;
@@ -251,9 +231,6 @@ h1,h2,h3,h4,h5
         font-size: 20px;
         padding-bottom: 10px;
     }
-/* end work */
-
-/* start about */
 #about h4
     {
         padding: 15px 0;
@@ -285,9 +262,6 @@ h1,h2,h3,h4,h5
         font-weight: bold;
         float: right;
     }
-/* end about */
-
-/* start portfolio */
 #portfolio
     {
         background: #1a1a1a;
@@ -323,9 +297,6 @@ h1,h2,h3,h4,h5
         opacity: 0.8;
         transform: scale(0.9);
     }
-/* end portfolio */
-
-/* start contact */
 
 #contact address
     {
@@ -376,9 +347,6 @@ h1,h2,h3,h4,h5
         background: #ffffff;
         color: #D43F52;
     }
-/* end contact */
-
-/* start footer */
 footer
     {
         border-top: 1px solid #090909;
@@ -390,9 +358,6 @@ footer hr
     {
         width: 100px;
     }
-/* end footer */
-
-/* start social icon */
 .social-icon
     {
         position: relative;
@@ -417,4 +382,3 @@ footer hr
     {
         color: #D43F52;
     }
-/* end social icon */
